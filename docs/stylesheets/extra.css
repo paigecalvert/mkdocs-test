@@ -58,6 +58,17 @@ body {
 .md-header__button.md-logo svg {
   width: 3rem;
   height: auto;
+  transition: transform 0.5s ease;
+}
+
+/* Logo hover effect */
+/* .md-header__button.md-logo:hover {
+  background-color: rgba(249,158,172,0.5);
+} */
+
+.md-header__button.md-logo:hover img,
+.md-header__button.md-logo:hover svg {
+  transform: rotate(180deg);
 }
 
 /* .md-header {

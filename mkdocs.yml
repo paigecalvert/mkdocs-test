@@ -1,0 +1,9 @@
+site_name: Helm Docs Test
+site_url: https://helm-docs-test.com
+theme:
+  name: material
+  logo: static/images/helm.svg
+  # font:
+  #   text: Space Mono
+extra_css:
+  - stylesheets/extra.css

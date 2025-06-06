@@ -4,7 +4,48 @@ theme:
   name: material
   logo: static/images/helm.svg
   favicon: static/images/helm-logo.svg
+  language: en
   # font:
   #   text: Space Mono
+plugins:
+  - search
+  # mkdocs-i18n plugin
+  - i18n:
+      default_language: 'en'
+      languages:
+        es: "Español"
+        en: "English"
+      translate_nav:
+        es:
+          English Section Label: "Spanish Section Label"
+        # section title: "Sección"
+        # subsection: "Subsección"
+        # page title: "Página con título traducido"
+
+
+  # mkdocs-static-i18n plugin config:
+  # - i18n:
+  #   languages:
+  #     - locale: en
+  #       default: true
+  #       name: English
+  #     - locale: es
+  #       name: Español
+  #       nav:
+  #         - index.md
+  #         - Spanish Section Label:
+  #           - lorem-ipsum.es.md
 extra_css:
   - stylesheets/extra.css
+nav:
+  - index.md
+  - English Section Label:
+    - lorem-ipsum.md  
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es

@@ -1,15 +1,15 @@
-# Welcome (Spanish translation)
+# Inicio
 
-Welcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the CNCF Helm Project Journey report.
+Bienvenido a la documentación de Helm. Helm es el gestor de paquetes para Kubernetes, y puedes leer información detallada de contexto en el informe del Proyecto Helm de la CNCF.
 
-## How the documentation is organized
+## Cómo está organizada la documentación
 
-Helm has a lot of documentation. A high-level overview of how it’s organized will help you know where to look for certain things:
+Helm tiene mucha documentación. Una visión general de alto nivel de cómo está organizada te ayudará a saber dónde buscar ciertas cosas:
 
-* Tutorials take you by the hand through a series of steps to create your first Helm chart. Start here if you’re new to Helm.
+* Los tutoriales te guían paso a paso a través de una serie de pasos para crear tu primer chart de Helm. Comienza aquí si eres nuevo en Helm.
 
-* Topic guides discuss key topics and concepts at a fairly high level and provide useful background information and explanation.
+* Las guías temáticas discuten temas y conceptos clave a un nivel bastante alto y proporcionan información de contexto útil y explicaciones.
 
-* Community Guides discuss topics centered around Helm’s community. Start here if you want to learn more about the development process of Helm itself and how you can contribute.
+* Las Guías de la Comunidad discuten temas centrados en la comunidad de Helm. Comienza aquí si quieres aprender más sobre el proceso de desarrollo de Helm en sí mismo y cómo puedes contribuir.
 
-* How-to guides are recipes. They guide you through the steps involved in addressing key problems and use-cases. They are more advanced than tutorials and assume some knowledge of how Helm works.
+* Las guías de procedimientos son recetas. Te guían a través de los pasos involucrados en abordar problemas y casos de uso clave. Son más avanzadas que los tutoriales y asumen cierto conocimiento de cómo funciona Helm.

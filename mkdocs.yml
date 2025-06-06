@@ -35,6 +35,13 @@ plugins:
             - index.es.md
             - Spanish Section Label:
               - lorem-ipsum.es.md
+        - locale: pt
+          name: Português
+          build: true
+          nav:
+            - index.pt.md
+            - Portuguese Section Label:
+              - lorem-ipsum.pt.md
 extra_css:
   - stylesheets/extra.css
 nav:
@@ -49,3 +56,6 @@ extra:
     - name: Español
       link: /es/
       lang: es
+    - name: Português
+      link: /pt/
+      lang: pt

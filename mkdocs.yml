@@ -31,6 +31,8 @@ plugins:
         - locale: es
           name: Español
           build: true
+          # you have to recreate the nav for each locale
+          # could lead to very long file
           nav:
             - index.es.md
             - Spanish Section Label:

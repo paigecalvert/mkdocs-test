@@ -1,4 +1,4 @@
-# Welcome
+# Welcome VERSION 2.0
 
 Welcome to the Helm documentation. Helm is the package manager for Kubernetes, and you can read detailed background information in the CNCF Helm Project Journey report.
 

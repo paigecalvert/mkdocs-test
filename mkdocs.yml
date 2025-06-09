@@ -51,6 +51,9 @@ nav:
   - English Section Label:
     - lorem-ipsum.md  
 extra:
+  extra:
+    version:
+      provider: mike
   alternate:
     - name: English
       link: /

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://helm-docs-test.com/2.0/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0es/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0pt/"/>
+    </url>
+    <url>
+        <loc>https://helm-docs-test.com/2.0/lorem-ipsum/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0/lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0es/lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0pt/lorem-ipsum/"/>
+    </url>
+    <url>
+        <loc>https://helm-docs-test.com/2.0/es/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0pt/"/>
+    </url>
+    <url>
+        <loc>https://helm-docs-test.com/2.0/es/lorem-ipsum/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0/es/lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0pt/lorem-ipsum/"/>
+    </url>
+    <url>
+        <loc>https://helm-docs-test.com/2.0/pt/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0es/"/>
+    </url>
+    <url>
+        <loc>https://helm-docs-test.com/2.0/pt/lorem-ipsum/</loc>
+        <lastmod>2025-06-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://helm-docs-test.com/2.0/pt/lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://helm-docs-test.com/2.0lorem-ipsum/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://helm-docs-test.com/2.0es/lorem-ipsum/"/>
+    </url>
+</urlset>
